@@ -1,6 +1,5 @@
 // recursao: quando a função chama ela mesma
 
-
 // fatorial
 const prompt = require('prompt-sync')();
 
@@ -18,7 +17,7 @@ function fatorial(n){
  * 
  *  5 * fatorial() = 5 * 24
  *  4 * fatorial() = 4 * 6
- *  3 * fatorial() = 3 * 2
+ *  3 * fatorial() = 3 * 2r
  *  2 * fatorial() = 2 * 1
  *  return 1
  */
