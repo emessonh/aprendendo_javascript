@@ -70,3 +70,12 @@
     // 5 - tamanho da coleção
 
     // nomeArray.length; propriedade
+
+    // 6 - métodos do array
+
+        /**
+         * sort(); ordena o array
+         * 
+         * slice(comeco, fim); retorna uma cópia do array, com um subarray
+         * 
+         */
